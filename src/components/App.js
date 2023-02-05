@@ -29,6 +29,8 @@ const App = () => {
        else{
         setEmail( state1); 
         setPass (state2); 
+        setState1("");
+        setState2("");
        }
   }
 
